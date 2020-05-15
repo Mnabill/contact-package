@@ -1,0 +1,19 @@
+{
+    "name": "mn/contact",
+    "description": "sent emails to admin also save it in db",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mohamed nabil",
+            "email": "mohamed4nabil2002@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MN\\Contact\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
